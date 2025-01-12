@@ -1,0 +1,42 @@
+
+*{
+    font-family: helvetica;
+}
+
+body {
+    background-color: rgb(39, 38, 38);
+}
+
+.content-wrapper{
+    text-align: center;
+    background-color: rgb(75, 75, 87);
+    margin: 100px 7%;
+    padding: 20px;
+}
+
+ul {
+    margin: 10px auto;
+    font-size: 20px;
+}
+
+li {
+    
+    margin: 10px auto;
+    text-align: center;
+    background-color: lightgray;
+}
+
+
+.heading {
+    color: rgb(231, 229, 197);
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+
+a {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
